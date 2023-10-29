@@ -1,0 +1,20 @@
+.tshirt-container img{
+  
+    height: 250px;
+}
+.tshirt-container{
+    margin-top: 20px;
+   border: 2px solid black;
+   border-radius: 10px;
+    padding: 10px;
+    
+}
+.tshirt-container button{
+    width: 100%;
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    border: 0;
+    padding: 5px;
+    border-radius: 5px;
+}

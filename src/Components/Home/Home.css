@@ -1,0 +1,16 @@
+.tshirt{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    gap:10px;
+}
+.home-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap:10px;
+    margin-top: 30px;
+}
+.cart-container{
+    background-color: cadetblue;
+    padding: 10px;
+    text-align: center;
+}
